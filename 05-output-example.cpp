@@ -1,5 +1,5 @@
 /*
-  Use stf::ofstream::app flag to append to output fileppend
+  Use stf::ofstream::app flag to append to output
 */
 
 #include <fstream>
